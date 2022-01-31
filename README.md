@@ -1,5 +1,5 @@
 # Covid➕
-Stay up-to-date about covid cases in India. Get vaccinated !
+Stay up-to-date with covid cases in India. Get vaccinated !
 
 
  ### Features
