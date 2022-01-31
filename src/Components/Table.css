@@ -1,0 +1,12 @@
+.india{
+    background-image: linear-gradient(to bottom, #0fb215, #00c783, #00d7cb, #66e1f5, #c1e9ff, #d2e6ff, #e9e3ff, #ffdffd, #ffc2e4, #ffa6b3, #ff9372, #fb9020);
+}
+.green-hover:hover{
+background-color: 	#00FA9A;
+}
+.red-hover:hover{
+    background-color: #FF2226;
+}
+.table{
+    text-align: center;
+}
